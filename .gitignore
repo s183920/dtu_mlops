@@ -156,3 +156,4 @@ node_modules/
 latest_info.csv
 latest_repo_data.csv
 repo_data.csv
+s4_debugging_and_logging/exercise_files/datasets/*
