@@ -157,3 +157,7 @@ latest_info.csv
 latest_repo_data.csv
 repo_data.csv
 s4_debugging_and_logging/exercise_files/datasets/*
+s4_debugging_and_logging/exercise_files/log/*
+s4_debugging_and_logging/exercise_files/logs/*
+s4_debugging_and_logging/exercise_files/wandb/*
+s4_debugging_and_logging/exercise_files/trace.json
