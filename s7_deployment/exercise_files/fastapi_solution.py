@@ -4,7 +4,7 @@ from http import HTTPStatus
 from typing import Optional
 
 import cv2
-from fastapi import FastAPI, File, UploadFile
+from s7_deployment.exercise_files.fastapi_solution import FastAPI, File, UploadFile
 from fastapi.responses import FileResponse
 from pydantic import BaseModel
 
